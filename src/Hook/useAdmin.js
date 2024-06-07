@@ -20,7 +20,7 @@ const useAdmin = user => {
             })
         }
     }, [user])
-// user admin 
+// User Admin 
     return [admin, adminLoading]
 }
 
