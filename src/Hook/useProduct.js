@@ -12,4 +12,4 @@ const useProduct =()=>{
 }
 export default useProduct;
 
-// use product
+// Use Product
