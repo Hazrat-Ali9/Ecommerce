@@ -20,4 +20,4 @@ const Trading = () => {
 
 export default Trading;
 
-// Tranding product
+// Tranding Product
