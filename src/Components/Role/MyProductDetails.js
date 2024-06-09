@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
+// Product Details
 const MyProductDetails = ({ post }) => {
   const { _id, name, email, price, image,status } = post;
   const imageURL = `http://localhost:8000/images/${image}`;
