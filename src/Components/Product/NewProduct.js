@@ -1,7 +1,7 @@
 
 import useProduct from '../../Hook/useProduct';
 import NewDetails from './Details/NewDetails';
-
+// Use Product 
 const NewProduct = () => {
     const [products]=useProduct()
     
